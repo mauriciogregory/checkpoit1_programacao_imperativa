@@ -1,1 +1,1 @@
-# checkpoit1_programacao_imperativa
+# checkpoint1_programacao_imperativa
